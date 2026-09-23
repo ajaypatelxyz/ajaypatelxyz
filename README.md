@@ -23,7 +23,6 @@ Hi, I'm **Ajay Patel**, a **B.Tech Computer Science Engineering student at Parul
 I enjoy building responsive, practical web applications, working with modern JavaScript technologies, integrating AI/LLM capabilities, and strengthening my problem-solving skills through Data Structures & Algorithms.
 
 - 🎓 **B.Tech CSE** — Parul University, Vadodara
-- 📈 **CGPA:** 8.48 / 10.0
 - 💻 **450+ LeetCode problems** solved across Arrays, Graphs, Dynamic Programming, Trees, and Greedy
 - 🤖 Interested in **AI/ML, LLM API integration, and Prompt Engineering**
 - 🚀 Building and deploying projects with **React, Node.js, Express.js, MongoDB, and Vercel**
@@ -83,33 +82,6 @@ I enjoy building responsive, practical web applications, working with modern Jav
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Web Application
-**React.js • HTML5 • CSS3 • JavaScript • REST API • Vercel**
-
-- Built a fully responsive storefront with **20+ products**, dynamic filtering, cart functionality, and product detail pages.
-- Created **15+ reusable React components**, reducing code duplication by approximately **40%**.
-- Integrated a mock REST API with dynamic product rendering, loading states, and error boundaries.
-- Achieved a **90+ Lighthouse performance score**.
-- Deployed on Vercel with a CI/CD workflow.
-
-🔗 **Live Demo:** [patelstore-bice.vercel.app](https://patelstore-bice.vercel.app/)
-
----
-
-### 🤖 Smart Personal Finance & Investment Advisor
-**React.js • Node.js • Express.js • MongoDB • AI/ML**
-
-- Engineering a full-stack AI-powered platform for **authentication, expense tracking, goal management, and report generation**.
-- Built a RESTful backend with **10+ API endpoints** using Node.js and Express.js.
-- Developed an interactive dashboard with **5 chart types**: bar, line, pie, donut, and area.
-- Integrated an **LLM-based AI chatbot** for natural-language questions and insights.
-- Designed MongoDB schemas around **users, transactions, goals, and insights** collections.
-- Used aggregation pipelines for data-driven reporting and insights.
-
----
-
 ## 🧠 DSA & Problem Solving
 
 I regularly practice competitive programming and interview-style problems in **C++**.
@@ -126,7 +98,6 @@ I regularly practice competitive programming and interview-style problems in **C
 
 - ✅ Solved **450+ DSA problems on LeetCode**.
 - 🏗️ Participated in **university-level hackathons and coding competitions**.
-- 📜 Completed industry-recognized certifications in **Advanced JavaScript** and **React.js Development**.
 - 🔥 Maintains public GitHub repositories with a consistent commit history and version-control practices.
 - 💼 Completed a Software Developer Internship at **Hindalco Industries Ltd. (Aditya Birla Group)**.
 
@@ -135,16 +106,6 @@ I regularly practice competitive programming and interview-style problems in **C
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ajaypatelxyz&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400"
-alt="Ajay's GitHub stats"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypatelxyz&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400"
-alt="Top languages"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ajaypatelxyz&hide_border=true&theme=transparent"
 alt="GitHub streak"/>
