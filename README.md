@@ -68,20 +68,6 @@ I enjoy building responsive, practical web applications, working with modern Jav
 
 ---
 
-## 💼 Experience
-
-### Software Developer Intern — Hindalco Industries Ltd. (Aditya Birla Group)
-**May 2025 – June 2025 | Renukoot, Uttar Pradesh**
-
-- Developed front-end features for an internal travel management web application using **HTML, CSS, and JavaScript**.
-- Improved UI consistency across **5+ key pages**.
-- Collaborated with a full-stack team using an **Agile/Scrum** workflow and participated in daily stand-ups.
-- Delivered assigned work on schedule within a **30-day sprint cycle**.
-- Gained hands-on experience with production codebase management, code reviews, and **Git-based version control**.
-- Received formal recognition for performance from the Aditya Birla Group Learning & Development team.
-
----
-
 ## 🧠 DSA & Problem Solving
 
 I regularly practice competitive programming and interview-style problems in **C++**.
@@ -91,15 +77,6 @@ I regularly practice competitive programming and interview-style problems in **C
 `Arrays` • `Strings` • `Linked Lists` • `Stacks & Queues` • `Trees` • `Graphs` • `Greedy` • `Dynamic Programming` • `Hashing` • `Sliding Window` • `Binary Search`
 
 🔗 **LeetCode:** [leetcode.com/u/ajay_patel1994](https://leetcode.com/u/ajay_patel1994/)
-
----
-
-## 🏆 Achievements & Activities
-
-- ✅ Solved **450+ DSA problems on LeetCode**.
-- 🏗️ Participated in **university-level hackathons and coding competitions**.
-- 🔥 Maintains public GitHub repositories with a consistent commit history and version-control practices.
-- 💼 Completed a Software Developer Internship at **Hindalco Industries Ltd. (Aditya Birla Group)**.
 
 ---
 
