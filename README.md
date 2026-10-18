@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajaypatelxyz&label=Profile%20Views&color=2563EB&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=ajaypatelxyz&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
 
 </div>
 
