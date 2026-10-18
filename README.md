@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./ajay-profile-banner.svg" alt="Ajay Patel - Developer Banner" width="100%"/>
 
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ajaypatelxyz&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ajaypatelxyz&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -84,8 +84,16 @@ I regularly practice competitive programming and interview-style problems in **C
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ajaypatelxyz&hide_border=true&theme=transparent"
-alt="GitHub streak"/>
+<!-- GitHub Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajaypatelxyz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<!-- Top Languages Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypatelxyz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Contribution Streak Card -->
+<img src="https://streak-stats.demolab.com?user=ajaypatelxyz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
