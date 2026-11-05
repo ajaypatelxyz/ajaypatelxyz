@@ -6,7 +6,7 @@
 
 <a href="https://ajaypatel.online"><img src="https://img.shields.io/badge/Portfolio-ajaypatel.online-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ajaypatel0"><img src="https://img.shields.io/badge/LinkedIn-Ajay%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/ajay_patel1994/"><img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/ajay_patel1994/"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
 <br/><br/>
 
