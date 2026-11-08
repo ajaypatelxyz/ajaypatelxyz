@@ -72,7 +72,7 @@ I enjoy building responsive, practical web applications, working with modern Jav
 
 I regularly practice competitive programming and interview-style problems in **C++**.
 
-**450+ LeetCode problems solved** covering:
+**500+ LeetCode problems solved** covering:
 
 `Arrays` • `Strings` • `Linked Lists` • `Stacks & Queues` • `Trees` • `Graphs` • `Greedy` • `Dynamic Programming` • `Hashing` • `Sliding Window` • `Binary Search`
 
