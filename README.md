@@ -23,7 +23,7 @@ Hi, I'm **Ajay Patel**, a **B.Tech Computer Science Engineering student at Parul
 I enjoy building responsive, practical web applications, working with modern JavaScript technologies, integrating AI/LLM capabilities, and strengthening my problem-solving skills through Data Structures & Algorithms.
 
 - 🎓 **B.Tech CSE** — Parul University, Vadodara
-- 💻 **450+ LeetCode problems** solved across Arrays, Graphs, Dynamic Programming, Trees, and Greedy
+- 💻 **500+ LeetCode problems** solved across Arrays, Graphs, Dynamic Programming, Trees, and Greedy
 - 🤖 Interested in **AI/ML, LLM API integration, and Prompt Engineering**
 - 🚀 Building and deploying projects with **React, Node.js, Express.js, MongoDB, and Vercel**
 - 📚 Currently strengthening **DSA in C++**
